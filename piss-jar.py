@@ -15,7 +15,7 @@ from urllib.request import Request, urlopen
 
 hooker_link = '' # put webhook link here
 hooker_name = 'shitass' # webhook name
-hooker_av = 'https://i.kym-cdn.com/entries/icons/original/000/018/166/pakalu.png' #webhook avatar url
+hooker_av = 'https://i.kym-cdn.com/entries/icons/original/000/018/166/pakalu.png' # webhook avatar url
 embeds = []
 
 
